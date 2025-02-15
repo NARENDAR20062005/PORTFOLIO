@@ -1,4 +1,4 @@
 # PORTFOLIO
 HTML , CSS, JAVASCRIPT
 
-## [Click Here](https://NARENDAR20062005.github.io/PORTFOLIO/)
+## [Click Here](https://narendar20062005.github.io/PORTFOLIO/)
